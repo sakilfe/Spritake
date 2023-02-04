@@ -9,4 +9,4 @@
 
 ## Lista de jogos produzidos
 1. FIXME
-2. Spritakel,
+2. Spritake
